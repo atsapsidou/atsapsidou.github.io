@@ -24,7 +24,7 @@ h3 {
 }
 
 ul {
-	font-size:175%;
+	font-size:160%;
 }
 
 body {
@@ -35,3 +35,6 @@ body {
 	align-items:center;
 }
 
+P {
+	font-size: 150%;
+}
